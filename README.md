@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body style="background:url(p4121987.jpg)" >
+<body style="background:url(P4121987.jpg)" >
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
